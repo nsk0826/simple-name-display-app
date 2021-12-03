@@ -1,6 +1,7 @@
 # simple-name-display-app
 Electron & React & Redux & TypeScript   
 チュートリアル的なもの  
+簡単な React-Redux を使ったアプリ  
 簡単なボタンとテキスト入力フォームの実装
 
 ## 起動方法  
